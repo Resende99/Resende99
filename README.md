@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Samuel 👋
 
-<!--
-**Resende99/Resende99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Focado em Desenvolvimento Web, Back-end e APIs  
+📍 Belo Horizonte - MG
 
-Here are some ideas to get you started:
+Tenho experiência prática com projetos próprios utilizando Python, JavaScript, Flask, APIs REST e banco de dados SQL. Atualmente desenvolvo aplicações web e projetos com integração de IA, sempre buscando evoluir na prática e aprender novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Python
+- JavaScript
+- SQL
+- PostgreSQL
+- SQLite
+- HTML
+- CSS
+- Flask
+- Git/GitHub
+- APIs REST
+
+## 📚 Atualmente estudando
+- Desenvolvimento Web
+- Back-end com Python
+- Banco de Dados
+- Engenharia de Software
+- Integração com IA
+
+## 🚀 Projetos
+- PadariaBot 2.0
+- Infodonto
+- Dona Amora E-commerce
+- APIs REST
+- Portfólio Web
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/samuel-andrade-resende-799b302b5
+- GitHub: https://github.com/Resende99
